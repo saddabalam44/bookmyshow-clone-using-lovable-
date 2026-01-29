@@ -6,54 +6,33 @@ This project focuses on replicating the core flow of browsing movies and managin
 🚀 Features
 
 🎥 Movie & show browsing UI
-
 🔐 User authentication using Supabase Auth
-
 🗄️ Backend powered by Supabase Database
-
 ⚡ Fast development with Lovable.dev
-
 📱 Responsive and modern UI
 
 🛠️ Tech Stack
 
 Lovable.dev – AI-powered app builder
-
 Supabase – Backend-as-a-Service
-
 Authentication
-
 Database
-
 Realtime-ready backend
-
 HTML, CSS, JavaScript
-(Add React or other frameworks if used)
 
 📌 Project Purpose
-
 Learn full-stack application flow
-
 Practice backend integration with Supabase
-
 Understand real-world booking platform structure
-
 Explore AI-assisted development using Lovable.dev
 
 🔧 Setup & Configuration
-
 Clone the repository
-
 Create a project on Supabase
-
 Configure Supabase keys in the project
-
 Run the app locally or deploy
 
-(Environment variables should not be pushed to GitHub)
-
 📊 Project Status
-
 🟡 In Progress
 More features like seat selection, payments, and admin dashboard can be added.
 
@@ -66,9 +45,6 @@ More features like seat selection, payments, and admin dashboard can be added.
 
 
 
-
-
-
 📄 Disclaimer
 
 This project is created only for educational purposes.
@@ -76,9 +52,7 @@ BookMyShow is a registered trademark of its respective owner.
 No commercial use intended.
 
 🙌 Acknowledgements
-
 Inspired by BookMyShow
-
 Built using Lovable.dev
 
 Backend powered by Supabase
